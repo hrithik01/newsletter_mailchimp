@@ -6,4 +6,6 @@ Used mailchimp to collect all email data and to use it as newsletter .
 npm install
 ```
 - create a .env file and paste your mailchimp API key there
+- The link of the deployed app is -
+`https://sheltered-crag-71262.herokuapp.com/`
 
